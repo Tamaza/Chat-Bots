@@ -1,1 +1,1 @@
-Implementation of chatbots that can be deployed.
+Implementation of chatbot that once was deployed on Facebook.
